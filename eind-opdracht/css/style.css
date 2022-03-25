@@ -218,6 +218,9 @@ button{
   #form{
     padding: 20px;
   }
+  .titel, .slogan{
+    padding: 40px;
+  }
 }
 
 @media only screen and (min-width: 900px) {
