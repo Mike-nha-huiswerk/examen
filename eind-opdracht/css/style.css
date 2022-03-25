@@ -219,7 +219,8 @@ button{
     padding: 20px;
   }
   .titel, .slogan{
-    padding: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 
